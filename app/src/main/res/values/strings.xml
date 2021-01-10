@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SehatQ Ecommerce</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_desc">Find your best things for medical purpose</string>
+    <string name="login">Login</string>
+    <string name="or_login">Or Login With</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+</resources>
