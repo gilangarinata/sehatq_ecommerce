@@ -1,4 +1,4 @@
-# sehatq_ecommerce
+### sehatq_ecommerce ###
 Application intended for SehatQ test
 
 ### LOGIN SCREEN ###
@@ -8,7 +8,7 @@ Application intended for SehatQ test
 ### HOME ###
 - love icon is activated when you click it but not hit an API
 
-#### SEARCH ####
+### SEARCH ###
 - you can use "PS5" or "Nintendo" Keywords
 
 ### DETAIL ###
